@@ -1552,11 +1552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\Documents\\IP01_ChristopherSharp\\IP01_ChristopherSharp\\IP01_ChristopherSharp.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\IP01_ChristopherSharp\\IP01_ChristopherSharp\\IP01_ChristopherSharp.csproj",
       "projectName": "IP01_ChristopherSharp",
-      "projectPath": "C:\\Users\\chris\\Documents\\IP01_ChristopherSharp\\IP01_ChristopherSharp\\IP01_ChristopherSharp.csproj",
+      "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\IP01_ChristopherSharp\\IP01_ChristopherSharp\\IP01_ChristopherSharp.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\Documents\\IP01_ChristopherSharp\\IP01_ChristopherSharp\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\IP01_ChristopherSharp\\IP01_ChristopherSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
